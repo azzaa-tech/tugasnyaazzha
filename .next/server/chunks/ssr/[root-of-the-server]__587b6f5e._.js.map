@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/alza_/Downloads/TUGAS/XII%20RPL%204/KK%20PAK%20OKTA/fe_next/src/app/components/Layout.js"],"sourcesContent":["// import navbar from '../dashbord/home'\r\nimport React from \"react\";\r\nimport { Link } from \"react-router-dom\";\r\n\r\nfunction Layout() {\r\n   const styles = {\r\n    navbar: {\r\n      display: 'flex',\r\n      justifyContent: 'space-between',\r\n      alignItems: 'center',\r\n      padding: '30px 55px',\r\n      backgroundColor: '#826836', \r\n      color: 'white',\r\n    },\r\n }\r\n}\r\n return (\r\n  <div style={styles.nav}></div>\r\n )\r\n"],"names":[],"mappings":"AAAA,wCAAwC;;;AACxC;;;;AAGA,SAAS;IACN,MAAM,UAAS;QACd,QAAQ;YACN,SAAS;YACT,gBAAgB;YAChB,YAAY;YACZ,SAAS;YACT,iBAAiB;YACjB,OAAO;QACT;IACH;AACD;AACC,qBACC,8OAAC;IAAI,OAAO,OAAO,GAAG","debugId":null}},
+    {"offset": {"line": 48, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/alza_/Downloads/TUGAS/XII%20RPL%204/KK%20PAK%20OKTA/fe_next/src/app/page.js"],"sourcesContent":["// import Image from \"next/image\";\nimport React from \"react\";\nimport Layout from \"./components/Layout\"\n\nexport default function Home() {\n  return (\n   <main><div><h1 className=\"color\">salaman saliminnn gesss</h1></div></main>\n  \n  );\n}\n"],"names":[],"mappings":"AAAA,kCAAkC;;;;;AAClC;AACA;;;;AAEe,SAAS;IACtB,qBACC,8OAAC;kBAAK,cAAA,8OAAC;sBAAI,cAAA,8OAAC;gBAAG,WAAU;0BAAQ;;;;;;;;;;;;;;;;AAGpC","debugId":null}}]
+}

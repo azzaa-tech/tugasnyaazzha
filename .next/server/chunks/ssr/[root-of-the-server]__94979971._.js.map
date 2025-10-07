@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/alza_/Downloads/TUGAS/XII%20RPL%204/KK%20PAK%20OKTA/fe_next/src/app/page.tsx"],"sourcesContent":["import Link from \"next/link\";\r\n\r\nconst Navbar = () => {\r\n\r\n    return (\r\n        <nav>\r\n            <div className=\"Logo\">\r\n                <h1>Ninja list</h1>\r\n            </div>\r\n            <Link href=\"/\"><a>Home</a></Link>\r\n            <Link href=\"/src/app/login/page.js\"><a>username</a></Link>\r\n        </nav>\r\n      )\r\n}\r\n\r\n\r\nexport default Navbar;"],"names":[],"mappings":";;;;AAAA;;;AAEA,MAAM,SAAS;IAEX,qBACI,8OAAC;;0BACG,8OAAC;gBAAI,WAAU;0BACX,cAAA,8OAAC;8BAAG;;;;;;;;;;;0BAER,8OAAC,4JAAA,CAAA,UAAI;gBAAC,MAAK;0BAAI,cAAA,8OAAC;8BAAE;;;;;;;;;;;0BAClB,8OAAC,4JAAA,CAAA,UAAI;gBAAC,MAAK;0BAAyB,cAAA,8OAAC;8BAAE;;;;;;;;;;;;;;;;;AAGnD;uCAGe","debugId":null}}]
+}

@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/components/Layout.js", "src/app/page.js", "src/app/hai/aboutAZZA.js", "src/app/dashbord/Home.js", "src/app/dashbord/page1.js", "src/app/dashbord/page2.js", "src/app/dashbord/page3.js", "src/app/pages/page.tsx", "src/app/Login/page.js", "src/blog/page.js", "src/app/tampilanawal/page.js", "src/app/Uangkas/page.js"],
+  "exclude": ["node_modules"]
+}

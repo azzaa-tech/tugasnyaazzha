@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/alza_/OneDrive/Desktop/XII%20RPL%204/KK%20PAK%20OKTA/fe_next/src/app/ujian/textbox/page.tsx"],"sourcesContent":["import React, { useState } from \"react\";\r\n\r\nexport default function SimpleInput() {\r\n  const [text, setText] = useState(\"\");\r\n    return (\r\n        <div>\r\n            <div className='flex flex-col min-h-screen bg-[#FFD5D5] justify-center items-center gap-5'>\r\n                <div className='bg-amber-50 h-85 w-85 rounded-2xl space-y-5'>\r\n                    <h3 className='font-light text-green-900 text-center text-l'>haiii ayok mengetik</h3>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    )\r\n}\r\n"],"names":[],"mappings":";;;;AAAA;;;AAEe,SAAS;IACtB,MAAM,CAAC,MAAM,QAAQ,GAAG,CAAA,GAAA,qMAAA,CAAA,WAAQ,AAAD,EAAE;IAC/B,qBACI,8OAAC;kBACG,cAAA,8OAAC;YAAI,WAAU;sBACX,cAAA,8OAAC;gBAAI,WAAU;0BACX,cAAA,8OAAC;oBAAG,WAAU;8BAA+C;;;;;;;;;;;;;;;;;;;;;AAKjF","debugId":null}}]
+}
