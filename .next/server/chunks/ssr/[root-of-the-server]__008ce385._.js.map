@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
-    {"offset": {"line": 19, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/alza_/OneDrive/Desktop/XII%20RPL%204/KK%20PAK%20OKTA/fe_next/src/app/Demo/demoid/page.tsx"],"sourcesContent":["\r\n// export default function Page({ params }) {\r\n//   const { demoid } = params;\r\n\r\n//   return (\r\n//     <div className=\"flex flex-col m-20 gap-4\">\r\n//       <h1 className=\"text-3xl font-bold text-black caret-amber-400\">Note page</h1>\r\n//       <ul>\r\n//         <li className=\"text-black drop-shadow-amber-400\">note {demoid}</li>\r\n//         <li className=\"text-black drop-shadow-amber-400\">Note</li>\r\n//         <li className=\"text-black drop-shadow-amber-400\">ollaa</li>\r\n//         <p className=\"text-black\">ini catatan dari note asli</p>\r\n//       </ul>\r\n//     </div>\r\n//   );\r\n// }\r\n\r\n"],"names":[],"mappings":"AACA,6CAA6C;AAC7C,+BAA+B;AAE/B,aAAa;AACb,iDAAiD;AACjD,qFAAqF;AACrF,aAAa;AACb,8EAA8E;AAC9E,qEAAqE;AACrE,sEAAsE;AACtE,mEAAmE;AACnE,cAAc;AACd,aAAa;AACb,OAAO;AACP,IAAI","debugId":null}}]
-}

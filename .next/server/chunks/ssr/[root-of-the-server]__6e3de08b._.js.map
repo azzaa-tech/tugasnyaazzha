@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
-    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/alza_/OneDrive/Desktop/XII%20RPL%204/KK%20PAK%20OKTA/fe_next/src/app/tampilanawal/page.tsx"],"sourcesContent":["import React from \"react\";\r\n\r\nexport default function tampilanawal() {\r\n  return (\r\n    <div>\r\n      <div className=\"text-black font-bold\">\r\n        <h1 className=\"text-center text-black\">Produk Mobil :</h1>\r\n        <p>Honda</p>\r\n        <p>Agya</p>\r\n        <p>Toyota</p>\r\n        <p>hyundai</p>\r\n      </div>\r\n    </div>\r\n  );\r\n}\r\n\r\n"],"names":[],"mappings":";;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;kBACC,cAAA,8OAAC;YAAI,WAAU;;8BACb,8OAAC;oBAAG,WAAU;8BAAyB;;;;;;8BACvC,8OAAC;8BAAE;;;;;;8BACH,8OAAC;8BAAE;;;;;;8BACH,8OAAC;8BAAE;;;;;;8BACH,8OAAC;8BAAE;;;;;;;;;;;;;;;;;AAIX","debugId":null}}]
-}
