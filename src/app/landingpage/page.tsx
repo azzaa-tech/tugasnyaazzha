@@ -8,7 +8,7 @@ function page() {
     return (
         <div className='bg-gradient-to-b from-slate-950 via-slate-800 to-slate-400 h-auto w-full px-20 py-8 space-y-5 '>
             <Navbar />
-            <Name/>
+            <Name />
 
             {/* Kontainer Flex untuk Teks & Foto */}
             <div className="flex flex-col md:flex-row items-center justify-between px-10 py-15 gap-10">
@@ -47,7 +47,7 @@ function page() {
                         {/* Foto Profil */}
                         <div className="relative w-130 h-130 rounded-full overflow-hidden border-4 border-indigo-400">
                             <img
-                                src="/assest/az.jpg"
+                                src="/assest/hi.jpg"
                                 alt="Avatar"
                                 className="w-full h-full object-cover"
                             />
@@ -86,9 +86,10 @@ function page() {
                         Salsabila Al-Zahir
                     </h3>
                     <p className="text-gray-300 text-xl">
-                        Azza adalah pribadi yang ceria, penuh semangat, dan selalu antusias mencoba hal-hal baru.
-                        Ia mudah beradaptasi, punya rasa ingin tahu yang besar, serta berusaha konsisten dalam mencapai tujuan.
-                        Dengan sikap ramah dan energinya yang positif, Azza mampu membawa suasana jadi lebih hidup di sekitarnya.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                        Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                     </p>
                     <div className=' py-10'>
                         <button className="mt-5 px-6 py-3 bg-[#FFD0EC] text-[#092135] font-bold rounded-full shadow-lg hover:bg-[#001931] hover:text-[#ffffff] transition">

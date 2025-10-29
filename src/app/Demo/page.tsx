@@ -19,13 +19,13 @@ export default function Page({ params }) {
             {/*atas dulu & dll*/}
             <div className=' space-y-5'>
                 <div className='bg-white/10 h-15 rounded-[5px] flex gap-5 items-center'>
-                    <h3 className='font-bold text-white text-l pl-2'>Rentang IP Lokal (CDIR) </h3>
+                    <h3 className='font-bold text-white text-l pl-2'>Kehadiran </h3>
                     < div className='bg-white/15 rounded-l h-12 w-60 pl-4 flex items-center'>
-                        <h3 className='font-light text-white text-l'>192.168.0.0/21</h3>
+                        <h3 className='font-light text-white text-l'>161 j, 46 mnt (8.583 km)</h3>
                     </div>
-                    < div className='bg-blue-800 rounded-[5px] h-12 w-60 pl-4 flex items-center justify-center'>
+                    {/* < div className='bg-blue-800 rounded-[5px] h-12 w-60 pl-4 flex items-center justify-center'>
                         <h3 className='text-white text-l font-bold'>🔍︎ Mulai scan lokal</h3>
-                    </div>
+                    </div> */}
                 </div>
             </div>
             {/* kotak -kotak ndkk tauu */}
