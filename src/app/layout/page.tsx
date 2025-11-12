@@ -4,6 +4,7 @@ import Left from "./leftsidebar/page"
 import Main from "./main/page"
 import Right from "./rightsidebar/page"
 import Footer from "./footer/page"
+import Low from "./low/page"
 import Image from "next/image";
 
 export default function Layout() {
@@ -24,6 +25,10 @@ export default function Layout() {
 
         {/* Right Sidebar */}
         <Right></Right>
+
+        {/* low */}
+        <Low></Low>
+
       </div>
 
       {/* Footer */}

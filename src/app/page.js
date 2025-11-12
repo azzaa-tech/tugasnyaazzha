@@ -4,6 +4,7 @@ import Login from './Login/page'
 import Perkenalan from './Login/perkenlan'
 import Anjay from './Anjay/page'
 import Navbar from "./Navbar/Surat"
+import Lekyout from "./lekyout/page"
 
 
 export default function page() {
@@ -14,6 +15,8 @@ export default function page() {
       <Perkenalan/>
       <Anjay/>
       <Navbar/>
+      <Lekyout/>
+     
 
     </div>
   )
